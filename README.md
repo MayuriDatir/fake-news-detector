@@ -1,4 +1,4 @@
-This project is an end-to-end *AI-powered web application* that intelligently detects whether a news article is real or fake using *Natural Language Processing (NLP)* and a *machine learning model. Built using **Python (Flask)* and enhanced with interactive features, it offers an intuitive experience for users to analyze text or uploaded documents in real time.
+This project is an end-to-end AI-powered web application that intelligently detects whether a news article is real or fake using Natural Language Processing (NLP) and a machine learning model. Built using Python (Flask) and enhanced with interactive features, it offers an intuitive experience for users to analyze text or uploaded documents in real time.
 
 ## 🔍 Key Features
 
