@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+<section class="hero">
+    <h1>AI-Based Fake News Detection</h1>
+    <p>Detect misinformation using NLP and Machine Learning techniques in real-time.</p>
+    <form action="/predict" method="post">
+        <textarea name="news" required placeholder="Paste your news article here..."></textarea>
+        <button type="submit" class="btn">Try Now</button>
+    </form>
+</section>
+{% endblock %}

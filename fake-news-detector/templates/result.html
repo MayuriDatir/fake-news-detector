@@ -1,0 +1,9 @@
+{% extends "layout.html" %}
+{% block content %}
+<section class="result-section">
+    <h2>Prediction Result</h2>
+    <p><strong>Entered News:</strong> {{ news }}</p>
+    <p class="result">{{ prediction }}</p>
+    <a href="/" class="btn">Try Another</a>
+</section>
+{% endblock %}
